@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/x-hannibal-mcp-memento-badge.png)](https://mseep.ai/app/x-hannibal-mcp-memento)
+
 # MCP Memento
 
 [![Python Version](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
